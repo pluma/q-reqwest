@@ -7,7 +7,7 @@ A thin Q wrapper around ded's reqwest AJAX library.
 ## Node
 
 ```sh
-    npm install q-reqwest
+npm install q-reqwest
 ```
 
 ## Browser
@@ -17,18 +17,18 @@ Get the [latest minified release](https://raw.github.com/pluma/q-reqwest/master/
 You can load the `q-reqwest` module with an AMD or CommonJS module loader or use it via the `reqwest` property of the `Q` global with a script tag:
 
 ```html
-    <script src="/your/js/path/q.min.js"></script>
-    <script src="/your/js/path/q-reqwest.min.js"></script>
-    <script>/* You can use Q.reqwest here. */</script>
+<script src="/your/js/path/q.min.js"></script>
+<script src="/your/js/path/q-reqwest.min.js"></script>
+<script>/* You can use Q.reqwest here. */</script>
 ```
 
 ## From Github
 
 ```sh
-    git clone https://github.com/pluma/q-reqwest.git
-    cd q-reqwest
-    npm install
-    make && make min
+git clone https://github.com/pluma/q-reqwest.git
+cd q-reqwest
+npm install
+make && make min
 ```
 
 # API
@@ -61,4 +61,4 @@ Contains the default options that will be used by `ajax`.
 
 # License
 
-The MIT/X11 license.
+The MIT/Expat license.
