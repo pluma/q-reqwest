@@ -47,6 +47,10 @@ Shorthand for `ajax({method: 'get'})`.
 
 Shorthand for `ajax({method: 'post'})`.
 
+## put(config:Object):Q
+
+Shorthand for `ajax({method: 'put'})`.
+
 ## del(config:Object):Q
 
 Shorthand for `ajax({method: 'delete'})`.
