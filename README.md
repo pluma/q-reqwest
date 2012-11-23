@@ -18,6 +18,7 @@ You can load the `q-reqwest` module with an AMD or CommonJS module loader or use
 
 ```html
 <script src="/your/js/path/q.min.js"></script>
+<script src="/your/js/path/reqwest.min.js"></script>
 <script src="/your/js/path/q-reqwest.min.js"></script>
 <script>/* You can use Q.reqwest here. */</script>
 ```
