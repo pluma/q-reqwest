@@ -1,6 +1,6 @@
 {
   "name": "q-reqwest",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Alan Plum <me@alanplum.com>",
   "description": "Thin Q promise wrapper for reqwest",
   "repository": {
