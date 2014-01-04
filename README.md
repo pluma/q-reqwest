@@ -64,6 +64,6 @@ Shorthand for `ajax({method: 'patch'})`.
 
 Contains the default options that will be used by `ajax`.
 
-# License
+# Unlicense
 
-The MIT/Expat license.
+This is free and unencumbered public domain software. For more information, see http://unlicense.org/ or the accompanying [UNLICENSE](https://github.com/pluma/q-reqwest/blob/master/UNLICENSE) file.
